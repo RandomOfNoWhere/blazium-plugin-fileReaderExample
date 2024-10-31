@@ -1,0 +1,10 @@
+Cave
+Town
+River
+Cliff
+Farm
+Grassland
+Volcano
+Hill
+Crevace
+Lake
